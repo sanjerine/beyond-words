@@ -1,7 +1,5 @@
 # Beyond Words: Investigating Model Alignment on Hate Speech Classification
 
-This repository contains experiment code used in Beyond Words: Investigating Model Alignment on Hate Speech Classification.
-
 ## Abstract
 
 This study evaluates the effectiveness of the alignment of Large Language Models
@@ -26,5 +24,11 @@ a robust solution for automated hate speech detection. The results of this study
 are expected to provide insights into the trade-offs between model alignment for
 safety and their effectiveness in nuanced content moderation tasks such as hate
 speech detection.
+
+## Repository Structure
+
+The repository contains two folders:
+- **dissertation**: notebooks used for dissertation experiments, as part of the Honours Programme at UWA - dated October 2024.
+- **latest** : which contains finalized, cleaned versions of experiment notebooks, in preparation for paper submission (approx 2024). This is currently still **in-progress**.
 
 This report is submitted as partial fulfilment of the requirements for the Honours Programme of the Department of Computer Science and Software Engineering, The University of Western Australia, 2024
